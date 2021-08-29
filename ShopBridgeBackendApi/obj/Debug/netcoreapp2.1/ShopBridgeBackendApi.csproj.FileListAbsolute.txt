@@ -1,0 +1,13 @@
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\bin\Debug\netcoreapp2.1\ShopBridgeBackendApi.deps.json
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\bin\Debug\netcoreapp2.1\ShopBridgeBackendApi.runtimeconfig.json
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\bin\Debug\netcoreapp2.1\ShopBridgeBackendApi.runtimeconfig.dev.json
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\bin\Debug\netcoreapp2.1\ShopBridgeBackendApi.dll
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\bin\Debug\netcoreapp2.1\ShopBridgeBackendApi.pdb
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.csproj.CoreCompileInputs.cache
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.RazorAssemblyInfo.cache
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.RazorAssemblyInfo.cs
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.AssemblyInfoInputs.cache
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.AssemblyInfo.cs
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.RazorTargetAssemblyInfo.cache
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.dll
+C:\Users\sharmga\source\repos\ShopBridgeBackendApi\ShopBridgeBackendApi\obj\Debug\netcoreapp2.1\ShopBridgeBackendApi.pdb
